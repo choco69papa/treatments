@@ -1,14 +1,10 @@
 .resizeimage img { width: 100vw; }
 
 .span-5{
-    display: flex;
-    flex-wrap: wrap;
+    padding: 5px 15px 10px 5px;
+    text-align: right;
 }
-.span-5>div{
-    width: 50%;
-    box-sizing: border-box;
-    padding: 5px 0 10px 5px;
-}
+
 .span-10 {
     flex: 0 0 100%;
     max-width: 100%;
